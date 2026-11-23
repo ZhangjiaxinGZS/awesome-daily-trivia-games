@@ -150,6 +150,8 @@ Verified in **November 2026** with real in-game screenshots, timer breakdowns, a
   - Breaks down what changes when you buy the one-time $5 *Kabloom Unlimited* upgrade on `kabloom.io` (endless climbs, category selection, playable past daily archive, ad removal) vs. the free Daily Summit, plus 4 free unlimited browser trivia games you can play immediately on [playmixy.com](https://playmixy.com/).
 - **[Krillion Unlimited (2026): Free Independent Edition vs. Original $5 Endless Dive](https://playmixy.com/krillion-unlimited)**
   - Explains the exact differences between the free browser-playable `Krillion.cc` Unlimited edition on [playmixy.com](https://playmixy.com/krillion-unlimited) and the official $5 *Endless Dive* unlock on `krillion.io`.
+- **[Volcano Krillion: Play Kabloom, the Volcano Trivia Game (2026 Guide)](https://playmixy.com/volcano-krillion)**
+  - Looking for the "volcano version of Krillion"? This guide identifies the game as **Kabloom** (`kabloom.io`), compares its 7-question non-repeating volcano climb against ocean **Krillion**'s rare-answer diving rules, and links to 5 free daily and unlimited trivia games you can play with no login on [playmixy.com](https://playmixy.com/).
 
 ---
 
