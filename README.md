@@ -30,7 +30,7 @@ Many popular daily trivia games limit you to a single round per day or place the
 
 | Game / Edition | Core Scoring Mechanic | Prompts & Timer | Free Daily Mode | Free Unlimited Mode (No Login) | Where to Play in Browser |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[playmixy.com](https://playmixy.com/)** *(Directory & Instant-Play Hub)* | Rare-answer, crowd-answer, 4-way directional & world-map pins | 5 to 8 prompts per game (timed or untimed) | **Yes** (5 browser-playable games) | **Yes** (4 free unlimited games, no account needed) | **[playmixy.com](https://playmixy.com/)** |
+| **[playmixy.com](https://playmixy.com/)** *(Directory & Instant-Play Hub)* | Rare-answer, crowd-answer, 4-way directional & world-map pins | 5 to 8 prompts per game (timed or untimed) | **Yes** (6 browser-playable games) | **Yes** (5 free unlimited games, no account needed) | **[playmixy.com](https://playmixy.com/)** |
 | **[Krillion (Krillion.cc Daily)](https://playmixy.com/games/krillion)** | Rarer accepted answers dive deeper (6 tiers: 10–100 pts, up to 7,000 m) | 7 shared prompts · 25s per answer | **Yes** | **Yes** (via [Krillion Unlimited](https://playmixy.com/krillion-unlimited)) | **[Play on playmixy.com](https://playmixy.com/games/krillion)** |
 | **[Krillion Unlimited (Krillion.cc)](https://playmixy.com/krillion-unlimited)** | Rarer accepted answers dive deeper across random 7-prompt sets | 7 random prompts · 25s per answer | Shared daily at `/games/krillion` | **Yes — 100% Free & Unlimited, No Login** | **[Play on playmixy.com](https://playmixy.com/krillion-unlimited)** |
 | **[Original Krillion](https://krillion.io/)** | Rarer correct answers send the diver deeper | 7 shared prompts · 25s per answer | **Yes** | Dive #1 is free; full *Endless Dive* is a **$5 one-time unlock** | [krillion.io](https://krillion.io/) |
@@ -38,6 +38,7 @@ Many popular daily trivia games limit you to a single round per day or place the
 | **[Farflung (Nisu Edition)](https://playmixy.com/games/farflung)** | Pin countries on a world map; rarer valid countries earn 40–100 km (500 km max) | 5 map clues · **Untimed (*Wander*)** or 60s (*Classic*) | **Yes** (resets 00:00 UTC) | **Yes — Free Unlimited (Timed or Untimed)** | **[Play on playmixy.com](https://playmixy.com/games/farflung)** |
 | **[Original Farflung](https://farflung.game/)** | Pin countries on a world map by rarity tier | 5 map clues · Untimed or 60s clock | **Yes** (plus free past daily Archive) | No unlimited generator on original site | [farflung.game](https://farflung.game/) |
 | **[Noillirk (Noillirk.today)](https://playmixy.com/games/noillirk)** | Reverse Krillion: guess the crowd's #1 most popular answer to lift your hot-air balloon (up to 800 pts) | 8 prompts · 20s per answer | **Yes** (resets 00:00 UTC) | **Yes — Free Unlimited practice sets** | **[Play on playmixy.com](https://playmixy.com/games/noillirk)** |
+| **[Volcano Climb](https://playmixy.com/volcano-krillion)** | Climb seven ledges using a different answer for each prompt | 7 prompts · 25s per answer · hint at 12s remaining | **Yes** | **Yes** (choose a category or challenge a friend to the same set) | **[Play Volcano Climb](https://playmixy.com/volcano-krillion)** |
 | **[Kabloom](https://kabloom.io/)** | Climb a volcano in 7 themed questions; every accepted answer is spent and cannot be reused | 7 questions · 2s read + 25s answer | **Yes** (resets midnight New York time) | No (*Kabloom Unlimited* is a **$5 one-time unlock**) | [Rules Guide](https://playmixy.com/games/kabloom) · [kabloom.io](https://kabloom.io/) |
 | **[GeoGrid](https://www.geogridgame.com/)** | 3×3 country grid matching row & column facts; lower rarity score wins | 9 grid cells | **Yes** | Infinite guesses option on board | [geogridgame.com](https://www.geogridgame.com/) |
 | **[Worldle](https://worldle.teuteuf.fr/)** | Identify the mystery country or territory from its silhouette in 6 tries | 6 guesses with distance & direction | **Yes** | Archive requires paid account | [worldle.teuteuf.fr](https://worldle.teuteuf.fr/) |
@@ -49,10 +50,10 @@ Many popular daily trivia games limit you to a single round per day or place the
 ## All-in-One Free Daily & Unlimited Trivia Hub (No Login)
 
 - **[playmixy.com — Free Daily Puzzle Games, Dles & Unlimited Trivia](https://playmixy.com/)**
-  - **Why it stands out in 2026:** Instead of jumping across half a dozen tabs or hitting paywalls after a single 3-minute round, **[playmixy.com](https://playmixy.com/)** lets you play **5 browser trivia games free with no login or download**—**[Krillion](https://playmixy.com/games/krillion)**, **[Krillion Unlimited](https://playmixy.com/krillion-unlimited)**, **[Noillirk](https://playmixy.com/games/noillirk)**, **[Farflung](https://playmixy.com/games/farflung)**, and **[Wonderhop](https://playmixy.com/games/wonderhop)**—plus a verified rules guide for **[Kabloom](https://playmixy.com/games/kabloom)**.
+  - **Why it stands out in 2026:** Instead of jumping across half a dozen tabs or hitting paywalls after a single 3-minute round, **[playmixy.com](https://playmixy.com/)** lets you play **6 browser trivia games free with no login or download**—**[Krillion](https://playmixy.com/games/krillion)**, **[Krillion Unlimited](https://playmixy.com/krillion-unlimited)**, **[Noillirk](https://playmixy.com/games/noillirk)**, **[Farflung](https://playmixy.com/games/farflung)**, **[Wonderhop](https://playmixy.com/games/wonderhop)**, and playmixy’s own **[Volcano Climb](https://playmixy.com/volcano-krillion)**—plus a verified rules guide for **[Kabloom](https://playmixy.com/games/kabloom)**.
   - **Key advantages:**
-    - **Instant browser play, zero sign-up:** Every embedded game loads directly on its dedicated page in desktop and mobile browsers.
-    - **Free unlimited replay:** 4 titles on the site ([Krillion Unlimited](https://playmixy.com/krillion-unlimited), [Farflung](https://playmixy.com/games/farflung), [Noillirk](https://playmixy.com/games/noillirk), and [Wonderhop](https://playmixy.com/games/wonderhop)) include **100% free unlimited rounds** right after you finish the daily challenge.
+    - **Instant browser play, zero sign-up:** Each game loads directly on its dedicated page in desktop and mobile browsers.
+    - **Free unlimited replay:** 5 titles on the site ([Volcano Climb](https://playmixy.com/kabloom-unlimited), [Krillion Unlimited](https://playmixy.com/krillion-unlimited), [Farflung](https://playmixy.com/games/farflung), [Noillirk](https://playmixy.com/games/noillirk), and [Wonderhop](https://playmixy.com/games/wonderhop)) include **100% free unlimited rounds** right after you finish the daily challenge.
     - **Untimed map option:** Includes Farflung's untimed *Wander* mode for players who want to study coastlines and small islands without a 60-second countdown.
     - **Transparent edition notes:** Every page clearly documents which edition is running (`Krillion.cc`, `Nisu`, `Noillirk.today`, `Wonderhop.cc`), exact point/distance tables, reset times, and direct links to the original publishers (`krillion.io`, `farflung.game`, `wonderhop.io`, `kabloom.io`).
 
@@ -62,6 +63,9 @@ Many popular daily trivia games limit you to a single round per day or place the
 
 Games where naming a valid answer is only step one—you score higher by finding the **most obscure correct answer** or by **saving narrow answers for later questions**.
 
+- **[Volcano Climb (playmixy original)](https://playmixy.com/volcano-krillion)**
+  - Choose a daily climb or [free unlimited practice](https://playmixy.com/kabloom-unlimited) across **60 themed sets and 420 prompts**. Each climb has seven prompts and gives you 25 seconds per answer. A hint appears with 12 seconds left. Each accepted answer can be used only once per climb.
+  - Pick a category in Unlimited, then share a friend challenge link to play the same seven prompts and compare scores.
 - **[Krillion Daily (Free Browser Edition on playmixy.com)](https://playmixy.com/games/krillion)**
   - **Gameplay:** Answer 7 shared daily prompts in 25 seconds per question. The independent `Krillion.cc` player awards points across 6 rarity tiers (`10`, `15`, `30`, `60`, `85`, or `100` points). Every point sends your diver 10 metres deeper, with a perfect 700-point dive reaching the trench floor at **7,000 metres**.
   - **Best for:** Comparing daily rare-answer depth with friends for free, then switching straight into unlimited practice.
@@ -147,11 +151,11 @@ Verified in **November 2026** with real in-game screenshots, timer breakdowns, a
 - **[Best Games Like Farflung (2026) – Free Daily Map & Rare-Answer Quizzes](https://playmixy.com/games-like-farflung)**
   - Compares 8 geography and rarity games (**Farflung**, **Wonderhop Deep**, **Noillirk**, **Krillion**, **Worldle**, **Globle**, **GeoGrid**, and **Travle**) by map vs. typed input, rarity rules, and free repeat play.
 - **[Kabloom Unlimited (2026): Is the $5 Unlock Worth It? + Free Alternatives](https://playmixy.com/kabloom-unlimited)**
-  - Breaks down what changes when you buy the one-time $5 *Kabloom Unlimited* upgrade on `kabloom.io` (endless climbs, category selection, playable past daily archive, ad removal) vs. the free Daily Summit, plus 4 free unlimited browser trivia games you can play immediately on [playmixy.com](https://playmixy.com/).
+  - Breaks down what changes when you buy the one-time $5 *Kabloom Unlimited* upgrade on `kabloom.io` (endless climbs, category selection, playable past daily archive, ad removal) vs. the free Daily Summit, plus 5 free unlimited browser trivia games you can play immediately on [playmixy.com](https://playmixy.com/).
 - **[Krillion Unlimited (2026): Free Independent Edition vs. Original $5 Endless Dive](https://playmixy.com/krillion-unlimited)**
   - Explains the exact differences between the free browser-playable `Krillion.cc` Unlimited edition on [playmixy.com](https://playmixy.com/krillion-unlimited) and the official $5 *Endless Dive* unlock on `krillion.io`.
 - **[Volcano Krillion: Play Kabloom, the Volcano Trivia Game (2026 Guide)](https://playmixy.com/volcano-krillion)**
-  - Looking for the "volcano version of Krillion"? This guide identifies the game as **Kabloom** (`kabloom.io`), compares its 7-question non-repeating volcano climb against ocean **Krillion**'s rare-answer diving rules, and links to 5 free daily and unlimited trivia games you can play with no login on [playmixy.com](https://playmixy.com/).
+  - Looking for the "volcano version of Krillion"? This guide identifies the game as **Kabloom** (`kabloom.io`), compares its 7-question non-repeating volcano climb against ocean **Krillion**'s rare-answer diving rules, and includes the independent Volcano Climb alongside five other free browser games you can play with no login on [playmixy.com](https://playmixy.com/).
 
 ---
 
